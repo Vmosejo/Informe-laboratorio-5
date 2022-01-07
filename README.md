@@ -7,6 +7,8 @@
 ### 3.1 Diagrama en Tinkercad
 #### Diagrama dispuesto para el ejercicio.
 ![1](https://user-images.githubusercontent.com/93893919/148471207-0bc9482b-b160-4505-9d2f-0d377e867d08.jpg)
+#### Lista de Componentes.
+![Listado](https://user-images.githubusercontent.com/93893919/148472431-098d41e6-06ed-43a2-b02d-14401da14459.jpg)
 #### Circuito en Tinkercad.
 ![2](https://user-images.githubusercontent.com/93893919/148471211-9f275aa7-d9ae-41f5-8a61-eeae8bf70768.jpg)
 #### Medición de Voltaje y Amperaje.
