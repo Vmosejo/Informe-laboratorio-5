@@ -84,6 +84,7 @@
 
 
 ## 5. VIDEO
+#### https://www.youtube.com/watch?v=aUzGSZSQgVQ
 ## 6. CONCLUSIONES
    #### El teorema de Thévenin es el indicado para simplificar circuitos completos y calcularlos mediante un circuito equivalente constituido por una fuente de tensión junto con una resistencia equivalente.
    #### Se visualizo de forma experimental y teórica la correcta ejecución del Teorema remplazando el valor de las resistencias por otra fuente de tensión.
