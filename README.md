@@ -35,10 +35,10 @@
 
 ![image](https://user-images.githubusercontent.com/93666408/148496204-d7da5f53-b8ba-4617-b48a-3fd2404b27d1.png)
 
-### Calculo de Voltaje y resistencia equivalente de Thévenin
+### Cálculo de Voltaje y resistencia equivalente de Thévenin
 ### Cálculos de la resistencia y del voltaje de Thévenin
 ### Resistencia de Thévenin
-* Para calcular la resistencia equivalente de Thévenin se realiza cortocircuito las fuentes de voltaje.
+* Para calcular la resistencia equivalente de Thévenin se realiza cortocircuito en las fuentes de voltaje.
 
 ![image](https://user-images.githubusercontent.com/93666408/148496574-04cb6c2c-d6e5-4bb0-87ed-2ad6ed27b993.png)
 
@@ -46,7 +46,7 @@
 
 ![image](https://user-images.githubusercontent.com/93666408/148496780-2881d3d9-48a8-4f0e-9fc5-3de966997fe3.png)
 
-### Calculo de voltaje de Thévenin
+### Cálculo de voltaje de Thévenin
 
 ![image](https://user-images.githubusercontent.com/93666408/148496901-a6fb8135-b509-43e3-a7c8-af3694f82c3c.png)
 
@@ -85,7 +85,7 @@
 
 ## 5. VIDEO
 ## 6. CONCLUSIONES
-   #### El teorema de Thévenin es el indicado para simplificar circuitos completos y calcularlos mediante un circuito equivalente        constituido por una fuente de tensión junto con una resistencia equivalente.
+   #### El teorema de Thévenin es el indicado para simplificar circuitos completos y calcularlos mediante un circuito equivalente constituido por una fuente de tensión junto con una resistencia equivalente.
    #### Se visualizo de forma experimental y teórica la correcta ejecución del Teorema remplazando el valor de las resistencias por otra fuente de tensión.
    #### Se concluyo que el Teorema de Thévenin es efectivo para el cálculo de los voltajes y amperajes correspondientes ya que el porcentaje de error es bajo y da a entender que está en lo correcto.
 ## 7. BIBLIOGRAFÍA 
