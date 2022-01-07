@@ -22,4 +22,5 @@
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 ## 5. VIDEO
 ## 6. CONCLUSIONES
-## 7. BIBLIOGRAFÍA 
+## 7. BIBLIOGRAFÍA
+* Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
